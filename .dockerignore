@@ -1,0 +1,6 @@
+# Das Image braucht nur die Metadaten der in der Lock-Datei festgelegten Abhängigkeiten und das Service-Paket.
+**
+!pyproject.toml
+!uv.lock
+!service/
+!service/*.py
